@@ -4,6 +4,8 @@ Welcome to my GitHub profile! I'm passionate about web and app development. Here
 
 ### 🌱 What I'm Currently Learning
 - **React Native**: Diving into the world of mobile app development.
+- **Express JS**: Looking into apis and data handling.
+- **React**: Getting the hang of it little by little.
 
 ### 💻 Languages & Technologies I Use
 - **HTML**
