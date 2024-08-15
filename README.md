@@ -3,19 +3,23 @@
 Welcome to my GitHub profile! I'm passionate about web and app development. Here's a bit about me:
 
 ### 🌱 What I'm Currently Learning
-- **React Native**: Diving into the world of mobile app development.
+- **Flutter**: Diving into the world of mobile app development.
 - **Express JS**: Looking into apis and data handling.
-- **React**: Getting the hang of it little by little.
 
 ### 💻 Languages & Technologies I Use
 - **HTML**
 - **CSS**
 - **JavaScript**
+- **Dart**
 
 ### 🛠️ Tools & Frameworks
 - **React Native**
 - **React**
 - **Node.js**
+- **Flutter**
+- **EXPO**
+- **Next JS**
+- **Tailwind CSS**
 
 ### 🚀 Projects & Interests
 I'm working on various projects that span across web and app development. Here are some areas I'm particularly interested in:
